@@ -17,7 +17,6 @@ INDEX VERSION 1.131+/home/thalita/ws-bootcamp/backend/.metadata/.plugins/org.ecl
 3610508729.index
 942793657.index
 524649138.index
-4174158793.index
 497056275.index
 728028905.index
 1854246134.index
